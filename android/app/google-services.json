@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469109718505",
+    "project_id": "notes-sharing-9b12c",
+    "storage_bucket": "notes-sharing-9b12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469109718505:android:c9022d8f9102a826f2df78",
+        "android_client_info": {
+          "package_name": "com.example.techathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469109718505-1v4bk0hgorfoa19rf0qdo5uaf98rv7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2EGW-KkNiX7qFnMU9PLGhnxTqxy6_j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469109718505-1v4bk0hgorfoa19rf0qdo5uaf98rv7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
